@@ -1,0 +1,10 @@
+name: demo
+description: Esto es un template demo
+version: 1.0.0
+repo_template_url: https://github.com/gonwms/dpad-templates
+stack:
+  - general
+tags:
+  - general
+dependencies: []
+is_public: true
